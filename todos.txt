@@ -1,4 +1,5 @@
-Write
 Walk
-Sleep
 Run
+Read
+Clean the bag
+Fix the Computer
